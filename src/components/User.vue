@@ -29,7 +29,7 @@
           <input type="text" class="form-control" v-model="dept" />
         </fieldset>
         <fieldset class="form-group">
-          <label>Email Id</label>
+          <label>Email</label>
           <input type="text" class="form-control" v-model="emailId" />
         </fieldset>
         <button class="btn btn-success" type="submit">Save</button>
